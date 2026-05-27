@@ -17,7 +17,7 @@
 👨‍💻 About Me
 
 I’m a Computer Science and Engineering (Artificial Intelligence) student pursuing B.Tech at Parul Institute of Engineering & Technology (CGPA: 8.57). I specialize in building intelligent systems, AI-driven applications, and end-to-end ML solutions that convert raw data into meaningful insights.
-<li>
+<li>💡 Interests: Full Stack Development, Data Science, AI/ML Engineering</li>
 💡 Interests: Full Stack Development, Data Science, AI/ML Engineering
 🤝 Focus: Real-world AI applications that solve practical problems
 🚀 Experience:
@@ -28,7 +28,7 @@ Participated in college-level initiatives for student skill development and care
 ☕ Java Development Internship (Basic → Advanced)
 Built hands-on projects covering core Java, OOP, collections, and application development.
 💡 Interests: Full Stack Development, Data Analytics, Machine Learning
-</li>
+
 📫 Reach me: sagilisowmyareddy@gmail.com
 
 ⚡ Fun fact: Scored 98% in High School & 93% in Intermediate — consistency is my superpower
