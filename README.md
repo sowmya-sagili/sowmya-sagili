@@ -1,3 +1,4 @@
+<div aligh="center">
 # Sowmya Sagili  
 **AI Engineer • Data Scientist • Full Stack Developer**  
 
@@ -5,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github)](https://github.com/your-username)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox)](https://your-portfolio-link.com)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sagilisowmyareddy@gmail.com)
-
+</div>
 ---
 <h2>👨‍💻 About Me</h2>
 <p>
