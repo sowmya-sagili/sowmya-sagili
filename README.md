@@ -53,8 +53,6 @@ I specialize in building intelligent systems, AI-driven applications, and end-to
 
 <h2>⚡ Skills & Tech Stack</h2>
 
-<div align="center">
-
 <h3>Generative AI & Agentic Systems</h3>
 <p>
   <span style="background-color:#f4f4f4; padding:4px 8px; border-radius:6px;">LangChain</span>
@@ -110,7 +108,6 @@ I specialize in building intelligent systems, AI-driven applications, and end-to
   <span style="background-color:#d1ecf1; padding:4px 8px; border-radius:6px;">Render</span>
 </p>
 
-</div>
 
 ---
 
