@@ -14,13 +14,18 @@
 </p>
 
 ---
-👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
+<p>
+I’m a Computer Science and Engineering (Artificial Intelligence) student pursuing B.Tech at Parul Institute of Engineering & Technology (CGPA: 8.57).<br>
+I specialize in building intelligent systems, AI-driven applications, and end-to-end ML solutions that convert raw data into meaningful insights.
+</p>
 
-I’m a Computer Science and Engineering (Artificial Intelligence) student pursuing B.Tech at Parul Institute of Engineering & Technology (CGPA: 8.57). I specialize in building intelligent systems, AI-driven applications, and end-to-end ML solutions that convert raw data into meaningful insights.
-💡 Interests: Full Stack Development, Data Science, AI/ML Engineering
-🤝 Focus: Real-world AI applications that solve practical problems
-<h3>Experience</h3>
+<p><b>💡 Interests:</b> Full Stack Development, Data Science, AI/ML Engineering<br>
+<b>🤝 Focus:</b> Real-world AI applications that solve practical problems</p>
 
+<hr>
+
+<h2>🚀 Experience</h2>
 <table>
   <tr>
     <td><b>Google Student Ambassador / Gemini Student Program (2026)</b></td>
@@ -36,11 +41,10 @@ I’m a Computer Science and Engineering (Artificial Intelligence) student pursu
   </tr>
 </table>
 
+<hr>
 
-
-📫 Reach me: sagilisowmyareddy@gmail.com
-
-⚡ Fun fact: Scored 98% in High School & 93% in Intermediate — consistency is my superpower
+<p>📧 <b>Reach me:</b> sagilisowmyareddy@gmail.com</p>
+<p>⚡ <b>Fun fact:</b> Scored 98% in High School & 93% in Intermediate — consistency is my superpower</p>
 
 ---
 
