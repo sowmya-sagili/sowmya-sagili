@@ -1,17 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sowmya Sagili</h1>
+# Sowmya Sagili  
+**AI Engineer • Data Scientist • Full Stack Developer**  
 
-<h3 align="center">AI Engineer • Data Scientist • Full Stack Developer</h3>
-
-<p align="center">
-  Building intelligent systems that turn raw data into real impact
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourid">LinkedIn</a> •
-  <a href="mailto:you@gmail.com">Email</a> •
-  <a href="https://github.com/yourid">GitHub</a> •
-  <a href="https://yourportfolio.com">Portfolio</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github)](https://github.com/your-username)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sagilisowmyareddy@gmail.com)
 
 ---
 <h2>👨‍💻 About Me</h2>
