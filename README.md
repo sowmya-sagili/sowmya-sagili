@@ -14,17 +14,19 @@
 </p>
 
 ---
+👨‍💻 About Me
 
-I’m a Computer Science and Engineering (Artificial Intelligence) student pursuing B.Tech at Parul Institute of Engineering & Technology (CGPA: 8.57). I focus on building intelligent systems and solving real-world problems using data, AI, and software development.
+I’m a Computer Science and Engineering (Artificial Intelligence) student pursuing B.Tech at Parul Institute of Engineering & Technology (CGPA: 8.57). I specialize in building intelligent systems, AI-driven applications, and end-to-end ML solutions that convert raw data into meaningful insights.
 
-💼 Experience & Leadership
-Google Student Ambassador / Google Gemini Student Ambassador (2026 Program Participant)
-Promoted Google AI tools among students and conducted awareness sessions on AI usage, productivity, and responsible AI practices.
-Awareness Program Intern – College Technical Initiative
-Participated in institutional programs focused on student skill development, technical education, and career guidance in emerging technologies.
-Java Internship (Basic to Advanced) – AI Academia
-Completed structured training in Java covering fundamentals to advanced concepts with hands-on project development.
-
+💡 Interests: Full Stack Development, Data Science, AI/ML Engineering
+🤝 Focus: Real-world AI applications that solve practical problems
+🚀 Experience:
+🎓 Google Student Ambassador / Gemini Student Program (2026)
+Promoting Google AI tools and conducting awareness sessions on responsible AI usage.
+🏫 Technical Awareness Program Intern
+Participated in college-level initiatives for student skill development and career guidance.
+☕ Java Development Internship (Basic → Advanced)
+Built hands-on projects covering core Java, OOP, collections, and application development.
 💡 Interests: Full Stack Development, Data Analytics, Machine Learning
 
 📫 Reach me: sagilisowmyareddy@gmail.com
