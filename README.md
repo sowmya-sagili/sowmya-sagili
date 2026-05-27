@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Your Name</h1>
 
-<!--
-**sowmya-sagili/sowmya-sagili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">AI Engineer • Data Scientist • Full Stack Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building intelligent systems that turn raw data into real impact
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/yourid">LinkedIn</a> •
+  <a href="mailto:you@gmail.com">Email</a> •
+  <a href="https://github.com/yourid">GitHub</a> •
+  <a href="https://yourportfolio.com">Portfolio</a>
+</p>
+
+---
+
+## 🧠 About Me
+- 🎓 B.Tech AI/ML Student
+- 🤖 Interested in AI Agents, RAG systems, ML
+- 💡 Love building real-world AI projects
+- 📊 Strong in Python, ML, Data Science
+
+---
+
+## ⚙️ Skills
+- Python, Java, C++
+- Machine Learning, Deep Learning
+- NLP, LLMs, RAG pipelines
+- Flask / FastAPI / React
+
+---
+
+## 🚀 Projects
+- AI Chatbot using RAG
+- Fake News Detector
+- Airline Demand Dashboard
+- Hostel Management System
+
+---
+
+## 📈 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
