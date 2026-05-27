@@ -3,12 +3,21 @@
 # Sowmya Sagili  
 **AI Engineer • Data Scientist • Full Stack Developer**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github)](https://github.com/your-username)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sagilisowmyareddy@gmail.com)
+<a href="https://www.linkedin.com/in/your-link">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" />
+</a>
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github" />
+</a>
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox" />
+</a>
+<a href="mailto:sagilisowmyareddy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+</a>
 
 </div>
+
 
 ---
 <h2>👨‍💻 About Me</h2>
