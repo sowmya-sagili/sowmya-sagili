@@ -51,7 +51,7 @@ I specialize in building intelligent systems, AI-driven applications, and end-to
 
 ---
 
-<h2 align="center">⚡ Skills & Tech Stack</h2>
+<h2>⚡ Skills & Tech Stack</h2>
 
 <div align="center">
 
