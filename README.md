@@ -84,8 +84,8 @@ A full-stack web application for managing hostel room bookings, student registra
 
 <h3>2. Hybrid Fake News Detector</h3>
 <p>
-An AI-powered system that detects fake news using a hybrid approach combining machine learning models and NLP techniques.  
-<b>Technologies:</b> Python, Scikit-learn, TensorFlow, Streamlit, NLP Libraries
+An AI-powered system that detects fake news using a hybrid approach combining machine learning models, Gemini APIs, and GNews AI for real-time news validation.  
+<b>Technologies:</b> Machine Learning, Gemini APIs, GNews AI, Python, NLP Libraries
 </p>
 
 <h3>3. Smart Traffic Violation Detection System</h3>
@@ -93,6 +93,13 @@ An AI-powered system that detects fake news using a hybrid approach combining ma
 An intelligent system that identifies traffic violations using computer vision and real-time monitoring, helping improve road safety.  
 <b>Technologies:</b> Python, OpenCV, Deep Learning (CNN), TensorFlow, IoT Integration
 </p>
+
+<h3>4. Zombie Crush City</h3>
+<p>
+A fun and interactive game project where players navigate through a city overrun by zombies, focusing on survival mechanics and engaging gameplay.  
+<b>Technologies:</b> HTML, CSS, JavaScript, Game Development Concepts
+</p>
+
 
 ---
 
