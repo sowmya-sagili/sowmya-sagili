@@ -66,10 +66,10 @@ I specialize in building intelligent systems, AI-driven applications, and end-to
 <p>n8n • Zapier • Make (Integromat) • REST APIs</p>
 
 <h3>Programming & Databases</h3>
-<p>Java • Python • MySQL • C++</p>
+<p>Java • Python • C • MySQL • HTML • CSS • JavaScript</p>
 
 <h3>Cloud & DevOps</h3>
-<p>AWS • Docker • Git • GitHub • Render</p>
+<p>AWS • Docker • Git • GitHub • Render • Versel</p>
 
 
 ---
