@@ -54,59 +54,22 @@ I specialize in building intelligent systems, AI-driven applications, and end-to
 <h2>⚡ Skills & Tech Stack</h2>
 
 <h3>Generative AI & Agentic Systems</h3>
-<ul>
-  <li>LangChain</li>
-  <li>LlamaIndex</li>
-  <li>Autogen</li>
-  <li>RAG Pipelines</li>
-  <li>Prompt Engineering</li>
-  <li>CrewAI</li>
-</ul>
+<p>LangChain • LlamaIndex • Autogen • RAG Pipelines • Prompt Engineering • CrewAI</p>
 
 <h3>Machine Learning & Deep Learning</h3>
-<ul>
-  <li>Python</li>
-  <li>TensorFlow</li>
-  <li>PyTorch</li>
-  <li>Scikit-learn</li>
-  <li>XGBoost</li>
-  <li>MLflow</li>
-</ul>
+<p>Python • TensorFlow • PyTorch • Scikit-learn • XGBoost • MLflow</p>
 
 <h3>Data Analytics & Visualization</h3>
-<ul>
-  <li>Pandas</li>
-  <li>NumPy</li>
-  <li>Plotly</li>
-  <li>Power BI</li>
-  <li>Tableau</li>
-  <li>SciPy</li>
-</ul>
+<p>Pandas • NumPy • Plotly • Power BI • Tableau • SciPy</p>
 
 <h3>AI Automation & Workflow</h3>
-<ul>
-  <li>n8n</li>
-  <li>Zapier</li>
-  <li>Make (Integromat)</li>
-  <li>REST APIs</li>
-</ul>
+<p>n8n • Zapier • Make (Integromat) • REST APIs</p>
 
 <h3>Programming & Databases</h3>
-<ul>
-  <li>Java</li>
-  <li>Python</li>
-  <li>MySQL</li>
-  <li>C++</li>
-</ul>
+<p>Java • Python • MySQL • C++</p>
 
 <h3>Cloud & DevOps</h3>
-<ul>
-  <li>AWS</li>
-  <li>Docker</li>
-  <li>Git</li>
-  <li>GitHub</li>
-  <li>Render</li>
-</ul>
+<p>AWS • Docker • Git • GitHub • Render</p>
 
 
 ---
