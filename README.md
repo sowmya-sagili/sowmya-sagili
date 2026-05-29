@@ -104,4 +104,8 @@ A fun and interactive game project where players navigate through a city overrun
 ---
 
 ## 📈 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=sowmya-sagili&show_icons=true)
+
+![Sowmya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowmya-sagili&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya-sagili&layout=compact&theme=radical&hide_border=true)
+
