@@ -74,11 +74,25 @@ I specialize in building intelligent systems, AI-driven applications, and end-to
 
 ---
 
-## 🚀 Projects
-- AI Chatbot using RAG
-- Fake News Detector
-- Airline Demand Dashboard
-- Hostel Management System
+<h2>🚀 Projects</h2>
+
+<h3>1. Hostel Booking System</h3>
+<p>
+A full-stack web application for managing hostel room bookings, student registrations, and payment tracking.  
+<b>Technologies:</b> Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+</p>
+
+<h3>2. Hybrid Fake News Detector</h3>
+<p>
+An AI-powered system that detects fake news using a hybrid approach combining machine learning models and NLP techniques.  
+<b>Technologies:</b> Python, Scikit-learn, TensorFlow, Streamlit, NLP Libraries
+</p>
+
+<h3>3. Smart Traffic Violation Detection System</h3>
+<p>
+An intelligent system that identifies traffic violations using computer vision and real-time monitoring, helping improve road safety.  
+<b>Technologies:</b> Python, OpenCV, Deep Learning (CNN), TensorFlow, IoT Integration
+</p>
 
 ---
 
