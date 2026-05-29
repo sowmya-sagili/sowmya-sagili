@@ -54,59 +54,59 @@ I specialize in building intelligent systems, AI-driven applications, and end-to
 <h2>⚡ Skills & Tech Stack</h2>
 
 <h3>Generative AI & Agentic Systems</h3>
-<p>
-  <span style="background-color:#f4f4f4; padding:4px 8px; border-radius:6px;">LangChain</span>
-  <span style="background-color:#f4f4f4; padding:4px 8px; border-radius:6px;">LlamaIndex</span>
-  <span style="background-color:#f4f4f4; padding:4px 8px; border-radius:6px;">Autogen</span>
-  <span style="background-color:#f4f4f4; padding:4px 8px; border-radius:6px;">RAG Pipelines</span>
-  <span style="background-color:#f4f4f4; padding:4px 8px; border-radius:6px;">Prompt Engineering</span>
-  <span style="background-color:#f4f4f4; padding:4px 8px; border-radius:6px;">CrewAI</span>
-</p>
+<ul>
+  <li>LangChain</li>
+  <li>LlamaIndex</li>
+  <li>Autogen</li>
+  <li>RAG Pipelines</li>
+  <li>Prompt Engineering</li>
+  <li>CrewAI</li>
+</ul>
 
 <h3>Machine Learning & Deep Learning</h3>
-<p>
-  <span style="background-color:#e8f0fe; padding:4px 8px; border-radius:6px;">Python</span>
-  <span style="background-color:#e8f0fe; padding:4px 8px; border-radius:6px;">TensorFlow</span>
-  <span style="background-color:#e8f0fe; padding:4px 8px; border-radius:6px;">PyTorch</span>
-  <span style="background-color:#e8f0fe; padding:4px 8px; border-radius:6px;">Scikit-learn</span>
-  <span style="background-color:#e8f0fe; padding:4px 8px; border-radius:6px;">XGBoost</span>
-  <span style="background-color:#e8f0fe; padding:4px 8px; border-radius:6px;">MLflow</span>
-</p>
+<ul>
+  <li>Python</li>
+  <li>TensorFlow</li>
+  <li>PyTorch</li>
+  <li>Scikit-learn</li>
+  <li>XGBoost</li>
+  <li>MLflow</li>
+</ul>
 
 <h3>Data Analytics & Visualization</h3>
-<p>
-  <span style="background-color:#fff3cd; padding:4px 8px; border-radius:6px;">Pandas</span>
-  <span style="background-color:#fff3cd; padding:4px 8px; border-radius:6px;">NumPy</span>
-  <span style="background-color:#fff3cd; padding:4px 8px; border-radius:6px;">Plotly</span>
-  <span style="background-color:#fff3cd; padding:4px 8px; border-radius:6px;">Power BI</span>
-  <span style="background-color:#fff3cd; padding:4px 8px; border-radius:6px;">Tableau</span>
-  <span style="background-color:#fff3cd; padding:4px 8px; border-radius:6px;">SciPy</span>
-</p>
+<ul>
+  <li>Pandas</li>
+  <li>NumPy</li>
+  <li>Plotly</li>
+  <li>Power BI</li>
+  <li>Tableau</li>
+  <li>SciPy</li>
+</ul>
 
 <h3>AI Automation & Workflow</h3>
-<p>
-  <span style="background-color:#d4edda; padding:4px 8px; border-radius:6px;">n8n</span>
-  <span style="background-color:#d4edda; padding:4px 8px; border-radius:6px;">Zapier</span>
-  <span style="background-color:#d4edda; padding:4px 8px; border-radius:6px;">Make (Integromat)</span>
-  <span style="background-color:#d4edda; padding:4px 8px; border-radius:6px;">REST APIs</span>
-</p>
+<ul>
+  <li>n8n</li>
+  <li>Zapier</li>
+  <li>Make (Integromat)</li>
+  <li>REST APIs</li>
+</ul>
 
 <h3>Programming & Databases</h3>
-<p>
-  <span style="background-color:#f8d7da; padding:4px 8px; border-radius:6px;">Java</span>
-  <span style="background-color:#f8d7da; padding:4px 8px; border-radius:6px;">Python</span>
-  <span style="background-color:#f8d7da; padding:4px 8px; border-radius:6px;">MySQL</span>
-  <span style="background-color:#f8d7da; padding:4px 8px; border-radius:6px;">C++</span>
-</p>
+<ul>
+  <li>Java</li>
+  <li>Python</li>
+  <li>MySQL</li>
+  <li>C++</li>
+</ul>
 
 <h3>Cloud & DevOps</h3>
-<p>
-  <span style="background-color:#d1ecf1; padding:4px 8px; border-radius:6px;">AWS</span>
-  <span style="background-color:#d1ecf1; padding:4px 8px; border-radius:6px;">Docker</span>
-  <span style="background-color:#d1ecf1; padding:4px 8px; border-radius:6px;">Git</span>
-  <span style="background-color:#d1ecf1; padding:4px 8px; border-radius:6px;">GitHub</span>
-  <span style="background-color:#d1ecf1; padding:4px 8px; border-radius:6px;">Render</span>
-</p>
+<ul>
+  <li>AWS</li>
+  <li>Docker</li>
+  <li>Git</li>
+  <li>GitHub</li>
+  <li>Render</li>
+</ul>
 
 
 ---
