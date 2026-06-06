@@ -1,23 +1,16 @@
-<div align="center">
+<h1 align="center">Sowmya Sagili</h1>
 
-# AI Engineer | Machine Learning Engineer | Full Stack Developer
+<h3 align="center">
+Artificial Intelligence Engineer • Machine Learning Developer • Software Engineer
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Artificial+Intelligence+%7C+Machine+Learning;Data+Science+%7C+Software+Development;Generative+AI+%7C+Agentic+AI;Always+Learning+Always+Building" />
+<p align="center">
+Building AI-powered applications, intelligent systems, and scalable software solutions.
+</p>
 
-<br>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
+<p align="center">
+<code>transforming data → intelligence → impact</code>
+</p>
 ---
 
 ## About
@@ -40,88 +33,65 @@
 🚀 Building intelligent systems that transform data into actionable insights and real-world solutions.
 
 ---
+# 🛠 Skills & Tech Stack
 
-## Tech Stack
+## 🤖 Artificial Intelligence & Machine Learning
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql" />
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1261A0?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
 ---
 
-## AI & Data Science Toolkit
+## 🧠 Generative AI
 
-<table>
-<tr>
-<td>
+![LangChain](https://img.shields.io/badge/LangChain-0B6E4F?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C3CF0?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4D4D?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-FF7A00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-2D6A4F?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-343A40?style=for-the-badge)
 
-### Generative AI
+---
 
-- LangChain
-- LlamaIndex
-- CrewAI
-- AutoGen
-- RAG Pipelines
-- Prompt Engineering
+## 📊 Data Analytics & Visualization
 
-</td>
+![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-0C5DA5?style=for-the-badge&logo=scipy)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 
-<td>
+---
 
-### Machine Learning
+## 💻 Programming & Databases
 
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- XGBoost
-- MLflow
-- NLP
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-</td>
-</tr>
+---
 
-<tr>
-<td>
+## 🌐 Web Development
 
-### Data Analytics
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- Pandas
-- NumPy
-- SciPy
-- Plotly
-- Power BI
-- Tableau
+---
 
-</td>
+## ☁️ Cloud & DevOps
 
-<td>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-### Automation
-
-- n8n
-- Zapier
-- REST APIs
-- Workflow Automation
-
-</td>
-</tr>
-</table>
 
 ---
 
