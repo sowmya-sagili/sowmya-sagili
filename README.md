@@ -1,7 +1,7 @@
 <h1 align="center">Sowmya Sagili</h1>
 
 <h3 align="center">
-Artificial Intelligence Engineer • Machine Learning Developer • Software Engineer
+Artificial Intelligence Engineer • Data Analytics • Full Stack Developer
 </h3>
 
 <p align="center">
@@ -11,6 +11,18 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 <p align="center">
 <code>transforming data → intelligence → impact</code>
 </p>
+
+<a href="sowmya-sagili">
+<img src="https://www.linkedin.com/in/sowmya-sagili-6b634130b"/>
+</a>
+
+<a href="mailto:sagilisowmyareddy@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 ---
 
 ## About
@@ -99,9 +111,9 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sowmya-sagili&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya-sagili&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -111,7 +123,7 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmya-sagili&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -121,7 +133,7 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmya-sagili&theme=tokyo-night"/>
 
 </div>
 
@@ -175,7 +187,7 @@ Interactive game featuring survival mechanics, dynamic gameplay, and engaging us
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sowmya-sagili/sowmya-sagili/output/github-contribution-grid-snake.svg)
 
 </div>
 
