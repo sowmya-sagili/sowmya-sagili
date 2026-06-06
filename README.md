@@ -1,28 +1,32 @@
-<h1 align="center">Sowmya Sagili</h1>
+<div align="center">
 
-<h3 align="center">
-Artificial Intelligence Engineer • Data Analytics • Full Stack Developer
-</h3>
+# Sowmya Sagili
 
-<p align="center">
+### Artificial Intelligence Engineer • Data Analytics • Full Stack Developer
+
 Building AI-powered applications, intelligent systems, and scalable software solutions.
-</p>
 
-<p align="center">
 <code>transforming data → intelligence → impact</code>
-</p>
 
-<a href="sowmya-sagili">
-<img src="https://www.linkedin.com/in/sowmya-sagili-6b634130b"/>
+<br><br>
+
+<a href="https://www.linkedin.com/in/sowmya-sagili-6b634130b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:sagilisowmyareddy@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/sowmya-sagili" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sowmya-sagili&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 ---
 
 ## About
@@ -114,7 +118,6 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sowmya-sagili&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya-sagili&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
@@ -133,7 +136,7 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmya-sagili&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sowmya-sagili&theme=tokyonight&row=1&column=7"/>
 
 </div>
 
