@@ -145,7 +145,7 @@ Computer vision solution for identifying traffic violations and enhancing road s
 
 ---
 
-### 🧟 Zombie Crush City
+### 🧟 Zombie Rush City
 
 Interactive game featuring survival mechanics, dynamic gameplay, and engaging user interaction.
 
