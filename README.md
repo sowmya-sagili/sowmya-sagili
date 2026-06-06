@@ -29,7 +29,7 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 ---
 
 
-## About
+## About Me
 
 🎓 B.Tech – Computer Science & Engineering (Artificial Intelligence)
 
