@@ -1,104 +1,232 @@
 <div align="center">
 
-# Sowmya Sagili  
-**AI Engineer • Data Scientist • Full Stack Developer**  
+# AI Engineer | Machine Learning Engineer | Full Stack Developer
 
-<a href="www.linkedin.com/in/sowmya-sagili-6b634130b">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Artificial+Intelligence+%7C+Machine+Learning;Data+Science+%7C+Software+Development;Generative+AI+%7C+Agentic+AI;Always+Learning+Always+Building" />
+
+<br>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/sowmya-sagili">
-  <img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat&logo=github" />
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="mailto:sagilisowmyareddy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
+---
+
+## About
+
+🎓 B.Tech – Computer Science & Engineering (Artificial Intelligence)
+
+🏫 Parul Institute of Engineering & Technology
+
+📈 CGPA: 8.57
+
+💡 Focus Areas:
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Full Stack Development
+- Generative AI
+- Agentic AI Systems
+- Cloud Computing
+
+🚀 Building intelligent systems that transform data into actionable insights and real-world solutions.
 
 ---
-<h2>👨‍💻 About Me</h2>
-<p>
-I’m a Computer Science and Engineering (Artificial Intelligence) student pursuing B.Tech at Parul Institute of Engineering & Technology (CGPA: 8.57).<br>
-I specialize in building intelligent systems, AI-driven applications, and end-to-end ML solutions that convert raw data into meaningful insights.
-</p>
 
-<p><b>💡 Interests:</b> Full Stack Development, Data Science, AI/ML Engineering<br>
-<b>🤝 Focus:</b> Real-world AI applications that solve practical problems</p>
+## Tech Stack
 
-<hr>
+<div align="center">
 
-<h2>🚀 Experience</h2>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql" />
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+</div>
+
+---
+
+## AI & Data Science Toolkit
+
 <table>
-  <tr>
-    <td><b>Google Student Ambassador / Gemini Student Program (2026)</b></td>
-    <td>Promoting Google AI tools and conducting awareness sessions on responsible AI usage.</td>
-  </tr>
-  <tr>
-    <td><b>Technical Awareness Program Intern</b></td>
-    <td>Participated in college-level initiatives for student skill development and career guidance.</td>
-  </tr>
-  <tr>
-    <td><b>Java Development Internship</b></td>
-    <td>Built hands-on projects covering core Java, OOP, collections, and application development.</td>
-  </tr>
+<tr>
+<td>
+
+### Generative AI
+
+- LangChain
+- LlamaIndex
+- CrewAI
+- AutoGen
+- RAG Pipelines
+- Prompt Engineering
+
+</td>
+
+<td>
+
+### Machine Learning
+
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- XGBoost
+- MLflow
+- NLP
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Data Analytics
+
+- Pandas
+- NumPy
+- SciPy
+- Plotly
+- Power BI
+- Tableau
+
+</td>
+
+<td>
+
+### Automation
+
+- n8n
+- Zapier
+- REST APIs
+- Workflow Automation
+
+</td>
+</tr>
 </table>
 
-<hr>
+---
 
-<p>📧 <b>Reach me:</b> sagilisowmyareddy@gmail.com</p>
-<p>⚡ <b>Fun fact:</b> Scored 98% in High School & 93% in Intermediate — consistency is my superpower</p>
+## GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-<h2>⚡ Skills & Tech Stack</h2>
+## Contribution Streak
 
-<h3>Generative AI & Agentic Systems</h3>
-<p>LangChain • LlamaIndex • Autogen • RAG Pipelines • Prompt Engineering • CrewAI</p>
+<div align="center">
 
-<h3>Machine Learning & Deep Learning</h3>
-<p>Python • TensorFlow • PyTorch • Scikit-learn • XGBoost • MLflow</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-<h3>Data Analytics & Visualization</h3>
-<p>Pandas • NumPy • Plotly • Power BI • Tableau • SciPy</p>
-
-<h3>AI Automation & Workflow</h3>
-<p>n8n • Zapier • Make (Integromat) • REST APIs</p>
-
-<h3>Programming & Databases</h3>
-<p>Java • Python • C • MySQL • HTML • CSS • JavaScript</p>
-
-<h3>Cloud & DevOps</h3>
-<p>AWS • Docker • Git • GitHub • Render • Versel</p>
-
+</div>
 
 ---
 
-<h2>🚀 Projects</h2>
+## Contribution Activity
 
-<h3>1. Hostel Booking System</h3>
-<p>
-A full-stack web application for managing hostel room bookings, student registrations, and payment tracking.  
-<b>Technologies:</b> Java, Spring Boot, MySQL, HTML, CSS, JavaScript
-</p>
+<div align="center">
 
-<h3>2. Hybrid Fake News Detector</h3>
-<p>
-An AI-powered system that detects fake news using a hybrid approach combining machine learning models, Gemini APIs, and GNews AI for real-time news validation.  
-<b>Technologies:</b> Machine Learning, Gemini APIs, GNews AI, Python, NLP Libraries
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
-<h3>3. Smart Traffic Violation Detection System</h3>
-<p>
-An intelligent system that identifies traffic violations using computer vision and real-time monitoring, helping improve road safety.  
-<b>Technologies:</b> Python, OpenCV, Deep Learning (CNN), TensorFlow, IoT Integration
-</p>
-
-<h3>4. Zombie Crush City</h3>
-<p>
-A fun and interactive game project where players navigate through a city overrun by zombies, focusing on survival mechanics and engaging gameplay.  
-<b>Technologies:</b> HTML, CSS, JavaScript, Game Development Concepts
-</p>
-
+</div>
 
 ---
+
+## Featured Projects
+
+### 🏠 Hostel Booking System
+
+Full-stack platform for hostel room management, student registration, booking workflow, and payment tracking.
+
+**Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+
+---
+
+### 📰 Hybrid Fake News Detector
+
+AI-powered fake news detection system using machine learning, NLP techniques, Gemini APIs, and real-time news validation.
+
+**Tech Stack:** Python, Machine Learning, NLP, Gemini API
+
+---
+
+### 🚦 Smart Traffic Violation Detection System
+
+Computer vision solution for identifying traffic violations and enhancing road safety through automated monitoring.
+
+**Tech Stack:** Python, OpenCV, TensorFlow, Deep Learning
+
+---
+
+### 🧟 Zombie Crush City
+
+Interactive game featuring survival mechanics, dynamic gameplay, and engaging user interaction.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+## GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+## GitHub Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## Current Focus
+
+- Generative AI Applications
+- Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Full Stack Development
+- Data Science & Analytics
+- Cloud Deployment
+- Software Engineering
+
+---
+
+<div align="center">
+
+### Building AI-Powered Solutions for Real-World Impact
+
+⭐ Explore repositories and projects below.
+
+</div>
