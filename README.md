@@ -122,10 +122,13 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 
 <div align="center">
 
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=sowmya-sagili&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
 
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya-sagili&layout=compact&theme=radical&hide_border=true" height="180" />
 
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmya-sagili&theme=radical&hide_border=true" height="180" />
 
 </div>
