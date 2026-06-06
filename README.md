@@ -8,7 +8,7 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 
 <code>transforming data → intelligence → impact</code>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/sowmya-sagili-6b634130b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,11 +22,11 @@ Building AI-powered applications, intelligent systems, and scalable software sol
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sowmya-sagili&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
+<br>
 </div>
+
+
+---
 
 
 ## About
@@ -86,18 +86,25 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 
 ## 💻 Programming & Databases
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 🌐 Web Development
+## 🌐 Web Development & Backend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Java](https://img.shields.io/badge/Java_Backend-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
@@ -115,9 +122,9 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sowmya-sagili&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SowmyaSagili&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya-sagili&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowmyaSagili&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -136,7 +143,7 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sowmya-sagili&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sowmya-sagili&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
