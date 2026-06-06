@@ -118,20 +118,8 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Sowmya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowmya-sagili&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya-sagili&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowmya-sagili&theme=radical)
-
-</div>
-
-
----
-
-## Featured Projects
+## Projects
 
 ### 🏠 Hostel Booking System
 
@@ -165,16 +153,6 @@ Interactive game featuring survival mechanics, dynamic gameplay, and engaging us
 
 ---
 
-## GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sowmya-sagili&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
-
----
 
 ## Current Focus
 
