@@ -118,34 +118,18 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SowmyaSagili&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sowmya-sagili&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SowmyaSagili&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya-sagili&layout=compact&theme=radical&hide_border=true" height="180" />
 
----
-
-## Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmya-sagili&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmya-sagili&theme=radical&hide_border=true" height="180" />
 
 </div>
 
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sowmya-sagili&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
 
 ---
 
