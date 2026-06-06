@@ -27,7 +27,7 @@ Building AI-powered applications, intelligent systems, and scalable software sol
 <img src="https://komarev.com/ghpvc/?username=sowmya-sagili&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
----
+
 
 ## About
 
@@ -180,19 +180,10 @@ Interactive game featuring survival mechanics, dynamic gameplay, and engaging us
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sowmya-sagili&theme=tokyonight&row=1&column=7"/>
 
 </div>
 
----
-
-## GitHub Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/sowmya-sagili/sowmya-sagili/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
